@@ -1,20 +1,26 @@
 body {
+    background-color: rgb(192, 198, 198);
     font-family: Arial, Helvetica, sans-serif;
 }
 
 .main-box {
-    background-color: rgb(239, 170, 248);
+    background-color: rgb(244, 244, 244);
     padding: 20px;
     width: 600px;
     margin: 0 auto;
 }
 
 h1 {
-    padding-bottom: 15px;
+    text-shadow: 2px 4px 15px rgb(82, 85, 87);
 }
 
 h2 {
     padding-top: 20px;
+}
+
+h3 {
+    padding-bottom: 15px;
+    border-bottom: 1px solid black;
 }
 
 img {
@@ -25,7 +31,13 @@ img {
 
 #footer {
     padding-top: 10px;
+    text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     font-weight: bold;
-    font-size: 14px;
+    font-size: 16px;
+
+}
+
+.a-footer {
+    text-decoration: none;
 }

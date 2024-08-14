@@ -1,8 +1,3 @@
 # Intro days project
-hig
 
-hello!
-Hello!
-hello from Anna!
-test
-hej
+This is a BuzzFeed article about cats!
